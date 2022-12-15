@@ -1,4 +1,4 @@
-### Hello, I'm Kody Samaroo
+### Hello, I'm Kody
 ***
 
 #### Background
