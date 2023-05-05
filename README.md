@@ -8,7 +8,7 @@ I studied computer science and information technology, recently graduating from 
 #### Connect with me
 ***
 
-<a href="https://www.linkedin.com/in/kody-samaroo/"><img src='https://user-images.githubusercontent.com/73686621/125107547-f1c3bb80-e0ae-11eb-8ae8-d33303df0c91.png' alt='linkedin' width='30px' height='30px'/></a> &nbsp; &nbsp; <a href="https://samaroo-kody.netlify.app/"><img src='https://img.icons8.com/ios/452/domain.png' alt='website' width='30px' height='30px' color="black"/></a> &nbsp; &nbsp; <a href='https://kodysamaroo.medium.com/'><img src='https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png' alt='medium' width='30px' height='30px'/></a>
+<a href="https://www.linkedin.com/in/kody-samaroo/"><img src='https://user-images.githubusercontent.com/73686621/125107547-f1c3bb80-e0ae-11eb-8ae8-d33303df0c91.png' alt='linkedin' width='30px' height='30px'/></a> &nbsp; &nbsp; <a href="https://samaroo-kody.netlify.app/"><img src='https://img.icons8.com/ios/452/domain.png' alt='website' width='30px' height='30px' color="black"/>
 
 #### Languages & Tools
 ***
